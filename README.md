@@ -1,0 +1,1 @@
+This repository contains a simple Perl program demonstrating an array index out-of-bounds error and its solution.  The `bug.pl` file shows the error, and `bugSolution.pl` provides a corrected version. The error occurs when attempting to access an element in an array using an index that exceeds the array's valid index range (0 to array size - 1).
